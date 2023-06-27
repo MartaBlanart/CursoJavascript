@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.json" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

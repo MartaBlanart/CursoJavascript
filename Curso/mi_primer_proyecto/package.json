@@ -1,0 +1,16 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+ "author": "Marta Blancart",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+let nombre= "Marta";
+let apellido="Blancart";
+let estudiante= (nombre.concat (" ", apellido));
+console.log(estudiante);
+let estudianteMayus= estudiante.toLocaleUpperCase;
+let estudianteMinus= estudiante.toLocaleLowerCase;
+var longitud= estudiante.length;
+var primeraLetra= nombre.charAt(0);
+console.log(primeraLetra);
+var ultimaletra= estudiante.charAt(7);
+console.log(ultimaletra);
+var eliminarEspacios= estudiante.trim().length;
+console.log(eliminarEspacios);
+var estaNombre= estudiante.includes(nombre);
+console.log(estaNombre);
